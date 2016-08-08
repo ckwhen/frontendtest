@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+npm-debug.log
+
+# test nightwatch
+test/nightwatch/npm-debug.log
+test/nightwatch/selenium-debug.log
+test/nightwatch/reports/
+
+# test nightwatch-cucumber
+test/nightwatch-cucumber/npm-debug.log
+test/nightwatch-cucumber/selenium-debug.log
+test/nightwatch-cucumber/reports/
+
