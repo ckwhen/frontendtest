@@ -99,6 +99,13 @@ chai
 jsdom
 ```
 
+.babelrc
+```
+{
+  presets: ["airbnb", "es2015"]
+}
+```
+
 ### cucumber js ###
 
 test:cucumber 指令說明
