@@ -17,6 +17,7 @@ npm install
 
 ### 執行本機 server
 
+npm run start
 預設位址: localhost:3000
 
 ### 指令
