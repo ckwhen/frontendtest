@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Microsoft JhengHei', '微軟正黑體';
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  position: relative;
+}

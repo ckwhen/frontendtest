@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <meta charset="UTF-8">
+  <title>Hello React!</title>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+  <link rel="stylesheet" type="text/css" href="{%=o.htmlWebpackPlugin.files.css%}" media='all'>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+<body>
+  <div id="root">
+  </div>
+
+  <script src="{%= o.htmlWebpackPlugin.options.vendorsJs %}?{%= (new Date()).getTime() %}"></script>
+  <script src="{%= o.htmlWebpackPlugin.options.entryJs %}?{%= (new Date()).getTime() %}"></script>
+</body>
