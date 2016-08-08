@@ -6,19 +6,19 @@
 ### 開始
 
 ```
-
 git clone https://github.com/ckwhen/frontendtest.git
 
 cd frontendtest
 
 npm install
-
 ```
 
 ### 執行本機 server
 
+```
 npm run start
 預設位址: localhost:3000
+```
 
 ### 指令
 
