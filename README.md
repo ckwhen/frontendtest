@@ -47,7 +47,6 @@ npm install -g nightwatch
 ### 資料夾結構 ###
 
 ```
-
 frontendtest
 ├─ lib/
 ├─ src/ // demo的 todo list 頁面
@@ -66,7 +65,6 @@ frontendtest
 ├─ devServer // 本機 server
 ├─ package.json // 此專案的腳本與使用的模組
 └─ webpack.dev.config // 本機 server webpack 設定
-
 ```
 
 ### enzyme ###
