@@ -37,11 +37,11 @@ npm install -g nightwatch
 
 介紹基礎的環境建置與各工具的環境如何使用
 
-* [資料夾結構](#markdown-header-_5)
-* [enzyme](#markdown-header-enzyme)
-* [cucumber js](#markdown-header-cucumber-js)
-* [nightwatch js](#markdown-header-nightwatch-js)
-* [nightwatch-cucumber](#markdown-header-nightwatch-cucumber)
+* [資料夾結構](#資料夾結構)
+* [enzyme](#enzyme)
+* [cucumber js](#cucumber-js)
+* [nightwatch js](#nightwatch-js)
+* [nightwatch-cucumber](#nightwatch-cucumber)
 
 ### 資料夾結構 ###
 
